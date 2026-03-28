@@ -13,13 +13,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atharvaawate22&show_icons=true&theme=tokyonight" alt="Atharva's GitHub stats" />
-</p>
-
----
-
 ### 🚀 Top Project
 **[Career Guidance Platform](https://github.com/atharvaawate22/career-guidance-platform)** *An AI-powered roadmap generator for students and professionals.*
 - ⚡ **Built with:** Next.js 14, Tailwind CSS, Prisma.

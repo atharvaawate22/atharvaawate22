@@ -1,24 +1,21 @@
-# Hi there, I'm Atharva! 👋
+# Hi there, I'm Atharva 👋
 
-**Full-stack developer building career-tech solutions. Currently scaling [atharvaawate.me](https://atharvaawate.me).**
-
----
-
-### 🛠️ Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
+**Full-stack developer · Generative AI** — recent B.Tech graduate (Electronics & Telecommunication, VIT Pune) based in Pune, India. I build web products end to end: schema, API, frontend and deployment.
 
 ### 🚀 Top Project
-**[Career Guidance Platform](https://github.com/atharvaawate22/career-guidance-platform)** *An AI-powered roadmap generator for students and professionals.*
-- ⚡ **Built with:** Next.js 14, Tailwind CSS, Prisma.
-- 🛠️ **Status:** Actively adding AI mentorship features.
 
----
+**[CET Hub](https://cethub.in)** helps Maharashtra students through MHT-CET admissions with cutoff exploration, rank prediction and college shortlisting. Built with Next.js, TypeScript, Node.js/Express and PostgreSQL. Source: [career-guidance-platform](https://github.com/atharvaawate22/career-guidance-platform). Currently adding a RAG-powered admissions chatbot (pgvector + Gemini).
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/atharva-d-awate) | [Portfolio](https://atharvaawate.me)
+### 🧰 Other Work
+
+**[Last Known Good](https://github.com/atharvaawate22/last-known-good)** is a VS Code extension that snapshots your workspace at every known-good state and restores it with one command.
+
+**Yoga Therapy App** is a React Native + FastAPI app that corrects yoga poses from the camera using MoveNet.
+
+### 🛠️ Tech Stack
+
+Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Python · FastAPI · React Native · Supabase
+
+### 📫 Connect
+
+[Portfolio](https://atharvaawate.me) · [LinkedIn](https://www.linkedin.com/in/atharvaawate) · [CET Hub](https://cethub.in)
